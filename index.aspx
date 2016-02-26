@@ -2,6 +2,6 @@
 	<head>
 	</head>
 	<body>
-		YO!
+		YO! This is a test
 	</body>
 </html>
